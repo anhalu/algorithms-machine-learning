@@ -1,3 +1,3 @@
 # algorithms-machine-learning
 #### machine learning from scratch.
-#### a Day a algorithms
+#### a Day a algorithm
